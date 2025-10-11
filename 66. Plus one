@@ -1,25 +1,19 @@
-import java.util.ArrayList;
 class Solution {
-    public int[] plusOne(int[] arr) {
-        ArrayList<Integer> list=new ArrayList<>();
-        for(int i =0;i<arr.length;i++){
-            list.add(arr[i]);
-        }
-        if(list.get(list.size()-1)==9){
-            list.set(list.size()-1,1);
-            list.add(0);
-            int[] arr1 = new int[list.size()];
-            for (int i = 0; i < list.size(); i++) {
-                arr1[i] = list.get(i);
-            }
-            return arr1;
+    public int[] plusOne(int[] digits) {
+        int n = digits.length;
 
-        }
-        list.set(list.size()-1,list.get(list.size()-1)+1);
-            int[] arr1 = new int[list.size()];
-            for (int i = 0; i <list.size(); i++) {
-                arr1[i] = list.get(i);
+       
+        for (int i = n - 1; i >= 0; i--) {
+            if (digits[i] < 9) {
+                digits[i]++;  
+                return digits;
             }
-            return arr1;
+            digits[i] = 0;  
+        }
+
+       
+        int[] newDigits = new int[n + 1];
+        newDigits[0] = 1;  
+        return newDigits;
     }
 }
