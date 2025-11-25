@@ -1,0 +1,29 @@
+class Tree {
+    public static void printCorner(Node node) {
+        List<Integer> list = new ArrayList<>();
+        Queue<Node> q = new LinkedList<>();
+        if (node== null){
+            return;
+        }
+        q.offer(node);
+        while(!q.isEmpty()){
+            int size = q.size();
+            for(int i =0 ; i< size ; i++){
+                Node node1 = q.poll();
+                if(i==0){
+                    list.add(node1.data);
+                }
+                if (i == size - 1 && size > 1) {
+                    list.add(node1.data);
+                }
+                if(node1.left != null){
+                    q.offer(node1.left);
+                }
+                if(node1.right != null){
+                    q.offer(node1.right);
+                }
+            }
+        }
+        for( int i =0; i < list.size() ; i++){
+            System.out.print(list.get(i)+" ");
+        }
