@@ -74,10 +74,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
