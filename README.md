@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0993-cousins-in-binary-tree) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0993-cousins-in-binary-tree) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0238-product-of-array-except-self](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0605-can-place-flowers) |
@@ -110,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
