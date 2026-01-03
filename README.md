@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
