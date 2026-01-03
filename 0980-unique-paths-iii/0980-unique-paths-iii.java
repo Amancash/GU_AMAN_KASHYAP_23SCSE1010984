@@ -1,3 +1,44 @@
+// class Solution {
+//     public int uniquePathsIII(int[][] grid) {
+//         int m = grid.length;
+//         int n = grid[0].length;
+//         if(m==1 && n==1){
+//             if(grid[0][0]==-1){
+//                 return 0;
+//             }
+//         }
+//         int srow=0;
+//         int scol=0;
+//         int erow=0;
+//         int ecol=0;
+//         for(int i=0; i< m ;i++){
+//             for(int j =0;j<n;j++){
+//                 if(grid[i][j]==1){
+//                     srow=i;
+//                     scol=j;
+//                 }
+//                 if(grid[i][j]==2){
+//                     erow=i;
+//                     ecol=j;
+//                 }
+//             }
+//         }
+//         return solve(grid,srow,scol,erow,ecol,m,n);
+//     }
+//     public int solve(int[][] grid,int srow,int scol, int erow,int ecol,int m,int n){
+//         if(erow<0 || ecol <0) return 0;
+//         if(erow>m || ecol >n) return 0;
+//         if(grid[erow][ecol]==1) return 1;
+
+//         int up=solve(grid,srow,scol,erow-1,ecol,m,n);
+//         int down=solve(grid,srow,scol,erow+1,ecol,m,n);
+//         int left=solve(grid,srow,scol,erow,ecol-1,m,n);
+//         int right=solve(grid,srow,scol,erow,ecol+1,m,n);
+//         return up+down+left+right;
+//     }
+
+// }
+
 class Solution {
     int paths = 0;
     int empty = 0;
