@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0137-single-number-ii) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
@@ -204,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
