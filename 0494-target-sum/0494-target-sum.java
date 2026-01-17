@@ -1,21 +1,27 @@
 class Solution {
-    public int findTargetSumWays(int[] nums, int target) {
-        int total = 0;
-        for (int x : nums) total += x;
+    public int findTargetSumWays(int[] nums, int diff) {
+        int n = nums.length;
+        int sum = 0;
+        for (int x : nums) sum += x;
 
-        if (total < Math.abs(target) || (total + target) % 2 != 0)
+        if (Math.abs(diff) > sum) return 0;
+        if ((sum + diff) % 2 != 0) return 0;
+
+        int t = (sum + diff) / 2;
+
+        return solve(nums, t, n - 1);
+    }
+    public int solve(int[] arr, int t , int i){
+        
+        if(i==0){
+            if(t==0 && arr[0]==0) return 2;
+            if(t==0 || t == arr[0]) return 1;
             return 0;
-
-        int s = (total + target) / 2;
-        int[] dp = new int[s + 1];
-        dp[0] = 1;
-
-        for (int num : nums) {
-            for (int i = s; i >= num; i--) {
-                dp[i] += dp[i - num];
-            }
         }
-        return dp[s];
+        if(i<0) return 0;
+        int not = solve(arr,t,i-1);
+        int pick = solve(arr,t-arr[i],i-1);
+        return not + pick ;
     }
 }
 
