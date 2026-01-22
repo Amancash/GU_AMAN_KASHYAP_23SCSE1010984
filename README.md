@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
 | [0063-unique-paths-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0078-subsets) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
