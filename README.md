@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
