@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0993-cousins-in-binary-tree) |
 ## Two Pointers
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0137-single-number-ii) |
 | [0198-house-robber](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0334-increasing-triplet-subsequence) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 | [0741-cherry-pickup](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
@@ -230,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0024-swap-nodes-in-pairs) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
