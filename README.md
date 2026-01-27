@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0225-implement-stack-using-queues](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0225-implement-stack-using-queues) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -238,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
