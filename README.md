@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0213-house-robber-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0583-delete-operation-for-two-strings) |
