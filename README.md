@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0064-minimum-path-sum) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0115-distinct-subsequences) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0605-can-place-flowers) |
 ## Prefix Sum
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0044-wildcard-matching) |
 ## Union-Find
 |  |
 | ------- |
