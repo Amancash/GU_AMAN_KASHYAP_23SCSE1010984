@@ -1,0 +1,68 @@
+// class Solution {
+//     int n,m,ic;
+//     boolean[][] vis;
+
+//     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+//         n = image.length;
+//         m = image[0].length;
+//         vis = new boolean[n][m];
+
+//         ic = image[sr][sc];
+//         bfs(sr,sc,image,color);
+//         return image;
+//     }
+//     public int[][] bfs(int sr,int sc , int[][] image, int c){
+//         vis[sr][sc]=true;
+//         Queue<int[]> q = new LinkedList<>();
+//         q.offer(new int[]{sr,sc});
+//         image[sr][sc]=c;
+
+//         int[] dr = {-1,1,0,0};
+//         int[] dc = {0,0, 1,-1};
+
+//         while(!q.isEmpty()){
+//             int[] cur = q.poll();
+//             int row = cur[0];
+//             int col = cur[1];
+
+//             for (int d = 0; d < 4; d++){
+//                 int nr = row + dr[d];
+//                 int nc = col + dc[d];
+
+//                 if(nr>=0 && nr<n && nc>=0 && nc<m && !vis[nr][nc] && image[nr][nc]==ic){
+//                     q.offer(new int[]{nr,nc});
+//                     vis[nr][nc]=true;
+//                     image[nr][nc]=c;
+//                 }
+//             }
+//         }
+//         return image;
+//     }
+// }
+
+class Solution {
+    int n, m, ic;
+    boolean[][] vis;
+
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+       n = image.length;
+       m = image[0].length;
+       ic = image[sr][sc];
+       vis = new boolean[n][m];
+       if(image[sr][sc]==color) return image;
+       dfs(sr,sc,image,color);
+       return image;
+    }
+    public void dfs ( int sr,int sc , int[][] image , int c){
+        if (sr < 0 || sr >= n || sc < 0 || sc >= m) return;
+        if (vis[sr][sc] || image[sr][sc] != ic) return;
+        vis[sr][sc] = true;
+        image[sr][sc] = c;
+        dfs(sr + 1, sc, image,c);
+        dfs(sr - 1, sc, image,c);
+        dfs(sr, sc + 1, image,c);
+        dfs(sr, sc - 1, image,c);
+        return;
+
+    }
+}
