@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0993-cousins-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0956-tallest-billboard) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
+| [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
+| [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
 ## Simulation
 |  |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
 ## Design
 |  |
 | ------- |
