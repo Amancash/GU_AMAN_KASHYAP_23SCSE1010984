@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Breadth-First Search
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
 ## Hash Table
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
 | ------- |
