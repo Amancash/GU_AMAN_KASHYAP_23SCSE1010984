@@ -1,0 +1,73 @@
+class Solution {
+    int start = 0;
+    int end = 0;
+    public boolean isp(String s, int i, int j) {
+        while (i < j) {
+            if (s.charAt(i) != s.charAt(j)) {
+                return false;
+            }
+            i++;
+            j--;
+        }
+        return true;
+    }
+
+    public String longestPalindrome(String s) {
+        if (s == null || s.length() == 0) return "";
+
+        int maxLength = 0;
+        for (int i = 0; i < s.length(); i++) {
+            for (int j = i; j < s.length(); j++) {
+                if (isp(s, i, j)) {
+                    if (j - i + 1 > maxLength) {
+                        maxLength = j - i + 1;
+                        start = i;
+                        end = j;
+                    }
+                }
+            }
+        }
+        return s.substring(start, end + 1);
+    }
+}
+// class Solution {
+//     public int longestPalindromeSubseq(String s) {
+//         String rev = new StringBuilder(s).reverse().toString();
+
+//         int n = s.length();
+//         int[][] dp = new int[n + 1][n + 1];
+
+//         for (int i = 1; i <= n; i++) {
+//             for (int j = 1; j <= n; j++) {
+//                 if (s.charAt(i - 1) == rev.charAt(j - 1)) {
+//                     dp[i][j] = 1 + dp[i - 1][j - 1];
+//                 } else {
+//                     dp[i][j] = 0;
+//                 }
+//             }
+//         }
+
+//         return dp[n][n];
+//     }
+// }
+
+// class Solution {
+//     int[][] dp;
+//     public int longestPalindrome(String s) {
+//         dp = new int[s.length()][s.length()];
+//         for(int i =0 ; i < s.length() ; i++){
+//             for(int j =0 ;j<s.length() ; j++){
+//                 dp[i][j]=-1;
+//             }
+//         }
+//         return solve(s,new StringBuilder(s).reverse().toString(), s.length()-1, s.length()-1);
+//     }
+//     public int solve (String s1,String s2, int i,int j){
+//         if(i < 0 || j < 0) return 0;
+//         if(dp[i][j]!=-1) return dp[i][j];
+//         if(s1.charAt(i)==s2.charAt(j)) return dp[i][j]= 1 + solve(s1,s2,i-1,j-1);
+//         return dp[i][j]= 0;
+//     }
+
+// }
+
