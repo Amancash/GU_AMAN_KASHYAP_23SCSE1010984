@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0334-increasing-triplet-subsequence) |
 | [0494-target-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0518-coin-change-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1732-find-the-highest-altitude) |
 ## Sliding Window
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
