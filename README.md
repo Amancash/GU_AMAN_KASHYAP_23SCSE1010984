@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0724-find-pivot-index) |
 | [0741-cherry-pickup](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0879-profitable-schemes) |
+| [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [0931-minimum-falling-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0956-tallest-billboard) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
+| [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
