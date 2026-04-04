@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
