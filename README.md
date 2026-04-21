@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0931-minimum-falling-path-sum) |
 | [0956-tallest-billboard](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0956-tallest-billboard) |
 | [1092-shortest-common-supersequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1092-shortest-common-supersequence) |
+| [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Breadth-First Search
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0139-word-break) |
+| [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
