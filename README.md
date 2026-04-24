@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0583-delete-operation-for-two-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1092-shortest-common-supersequence) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Hash Table
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
