@@ -1,0 +1,28 @@
+class Solution {
+    public void rotate(int[] nums, int k) {
+        // while (k>0){
+        //     int temp = nums[nums.length-1];
+        //     for(int i =nums.length-2 ; i >= 0 ;i--){
+        //         nums[i+1]=nums[i];
+        //     }
+        //     nums[0]=temp;
+        //     k--;
+        // }
+        // Collections.rotate(Arrays.asList(nums), k);
+        int n =nums.length; 
+        int d = k % n;
+        d = n - d;
+        int[] temp = new int[d];
+        for(int i =0 ; i <d ; i++){
+            temp[i]=nums[i];
+        }
+        for(int i = d ; i<nums.length ;i++){
+            nums[i-d]=nums[i];
+        }
+        for (int i = 0; i < d; i++) {
+            nums[nums.length - d + i] = temp[i];  // ✅ FIXED
+        }
+
+
+    }
+}
