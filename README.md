@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
