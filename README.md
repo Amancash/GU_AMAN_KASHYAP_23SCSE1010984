@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0198-house-robber) |
