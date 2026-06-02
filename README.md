@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1768-merge-strings-alternately) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## String
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0605-can-place-flowers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
 | ------- |
