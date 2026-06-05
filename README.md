@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
+| [1672-richest-customer-wealth](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
 | [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
+| [1672-richest-customer-wealth](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
