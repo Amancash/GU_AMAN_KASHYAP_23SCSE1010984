@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0741-cherry-pickup) |
 | [0879-profitable-schemes](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0879-profitable-schemes) |
 | [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
