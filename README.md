@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0931-minimum-falling-path-sum) |
+| [0946-validate-stack-sequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0946-validate-stack-sequences) |
 | [0956-tallest-billboard](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0956-tallest-billboard) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
 | [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2390-removing-stars-from-a-string) |
 ## Bit Manipulation
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
+| [0946-validate-stack-sequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0946-validate-stack-sequences) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2390-removing-stars-from-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2390-removing-stars-from-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3614-process-string-with-special-operations-ii) |
