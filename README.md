@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0096-unique-binary-search-trees) |
+| [0224-basic-calculator](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0520-detect-capital) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0224-basic-calculator](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0901-online-stock-span) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0044-wildcard-matching) |
+| [0224-basic-calculator](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
 ## Union-Find
 |  |
