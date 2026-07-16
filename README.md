@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0402-remove-k-digits) |
 | [0520-detect-capital](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0520-detect-capital) |
 | [0583-delete-operation-for-two-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0583-delete-operation-for-two-strings) |
 | [0709-to-lower-case](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0709-to-lower-case) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0402-remove-k-digits) |
 | [0605-can-place-flowers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0605-can-place-flowers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0901-online-stock-span) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0907-sum-of-subarray-minimums) |
