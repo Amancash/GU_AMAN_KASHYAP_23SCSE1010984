@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0095-unique-binary-search-trees-ii) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0064-minimum-path-sum) |
