@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
