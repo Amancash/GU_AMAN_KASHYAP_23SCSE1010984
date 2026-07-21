@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Backtracking
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3838-weighted-word-mapping](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3838-weighted-word-mapping) |
 ## Greedy
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -447,4 +450,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
+| [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
