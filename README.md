@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1143-longest-common-subsequence) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
 ## Math
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1768-merge-strings-alternately) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
 | [1020-number-of-enclaves](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1207-unique-number-of-occurrences) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0491-non-decreasing-subsequences) |
 | [0784-letter-case-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0980-unique-paths-iii) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -344,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0389-find-the-difference) |
 | [0491-non-decreasing-subsequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0491-non-decreasing-subsequences) |
 | [1207-unique-number-of-occurrences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1207-unique-number-of-occurrences) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
@@ -361,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0169-majority-element) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
 ## Memoization
 |  |
@@ -458,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
