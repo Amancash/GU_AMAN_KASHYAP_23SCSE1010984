@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0101-symmetric-tree) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0131-palindrome-partitioning) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0139-word-break) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0120-triangle) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0542-01-matrix) |
