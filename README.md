@@ -477,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
