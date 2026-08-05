@@ -495,4 +495,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
