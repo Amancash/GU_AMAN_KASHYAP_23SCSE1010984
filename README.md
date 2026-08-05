@@ -489,4 +489,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
