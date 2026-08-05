@@ -493,4 +493,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0596-classes-with-at-least-5-students) |
+| [0607-sales-person](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
