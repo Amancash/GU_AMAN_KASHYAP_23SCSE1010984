@@ -507,5 +507,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1174-immediate-food-delivery-ii) |
+| [1211-queries-quality-and-percentage](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1211-queries-quality-and-percentage) |
 | [1407-top-travellers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1407-top-travellers) |
 <!---LeetCode Topics End-->
