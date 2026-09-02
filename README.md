@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1486-xor-operation-in-an-array) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2769-find-the-maximum-achievable-number) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -509,4 +511,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1174-immediate-food-delivery-ii) |
 | [1211-queries-quality-and-percentage](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1211-queries-quality-and-percentage) |
 | [1407-top-travellers](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1407-top-travellers) |
+## Number Theory
+|  |
+| ------- |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 <!---LeetCode Topics End-->
