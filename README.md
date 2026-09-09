@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1463-cherry-pickup-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
 ## Backtracking
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1732-find-the-highest-altitude) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2305-fair-distribution-of-cookies](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2305-fair-distribution-of-cookies) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
