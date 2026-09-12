@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0027-remove-element) |
 | [0040-combination-sum-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0046-permutations) |
