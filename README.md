@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -531,4 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0274-h-index) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
