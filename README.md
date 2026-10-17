@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3149-find-the-minimum-cost-array-permutation) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3838-weighted-word-mapping](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3838-weighted-word-mapping) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/0905-sort-array-by-parity) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/1657-determine-if-two-strings-are-close) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Amancash/GU_AMAN_KASHYAP_23SCSE1010984/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Counting
 |  |
